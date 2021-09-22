@@ -1,0 +1,21 @@
+{
+    "name": "coffeine",
+    "version": "1.0.0",
+    "description": "My own Discord bot",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node sevenCose.js"
+    },
+    "engines": {
+        "node": "8.x"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/emilianobrazzoli/sevenCose.git"
+    },
+    "author": "EmilianoBrazzoli",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
